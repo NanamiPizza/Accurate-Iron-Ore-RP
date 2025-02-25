@@ -1,3 +1,5 @@
+# THIS REPO DOES NOT GET UPDATED. IT IS JUST FOR REPORTING ISSUES.
+
 A more accurate look to one of the first ores in the game!
 
 
